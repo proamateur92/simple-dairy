@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/simple-dairy/static/css/main.a6b89031.css",
-    "main.js": "/simple-dairy/static/js/main.398c3f37.js",
+    "main.css": "/simple-dairy/static/css/main.bc9f7389.css",
+    "main.js": "/simple-dairy/static/js/main.7c4ec332.js",
     "index.html": "/simple-dairy/index.html",
-    "main.a6b89031.css.map": "/simple-dairy/static/css/main.a6b89031.css.map",
-    "main.398c3f37.js.map": "/simple-dairy/static/js/main.398c3f37.js.map"
+    "main.bc9f7389.css.map": "/simple-dairy/static/css/main.bc9f7389.css.map",
+    "main.7c4ec332.js.map": "/simple-dairy/static/js/main.7c4ec332.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b89031.css",
-    "static/js/main.398c3f37.js"
+    "static/css/main.bc9f7389.css",
+    "static/js/main.7c4ec332.js"
   ]
 }
