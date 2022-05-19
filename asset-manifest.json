@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-dairy/static/css/main.73d686b0.css",
+    "main.js": "/simple-dairy/static/js/main.c2a16d11.js",
+    "index.html": "/simple-dairy/index.html",
+    "main.73d686b0.css.map": "/simple-dairy/static/css/main.73d686b0.css.map",
+    "main.c2a16d11.js.map": "/simple-dairy/static/js/main.c2a16d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d686b0.css",
+    "static/js/main.c2a16d11.js"
+  ]
+}
